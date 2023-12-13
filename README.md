@@ -11,7 +11,7 @@
 
 <p> I am a 3rd year Ph.D. student in <a href="https://github.com/mqcomplab" target="_blank" rel="noopener noreferrer">Miranda-Quintana Group</a> at University of Florida. My research focuses in the field of  theoretical and computational chemistry.<p/>
 <p> Currently, am working on new wavefunction methods to describe strong correlation, including flexible perturbative approaches.
-<p> Outside of research, I enjoy playing basketball and go hiking. 
+<p> Outside of research, I enjoy playing basketball :basketball: and go hiking :hiking_boot:. 
 
 <!--
 **rugwed-lokhande/rugwed-lokhande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
