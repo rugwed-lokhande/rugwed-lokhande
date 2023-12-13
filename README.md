@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="feynmann_meme.jpg" width="250" height="350" align="right"></a>
+<img src="feynman_meme.jpg" width="250" height="350" align="right"></a>
 
 <a href="https://www.linkedin.com/in/lokhande-rugwed-667109170/" target="_blank" rel="noopener noreferrer">
   <img alt="LinkedIn" src="https://img.shields.io/badge/-Rugwed_Lokhande-0B65C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lokhande-rugwed-667109170/"></a>
