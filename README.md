@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 
-<a href="https://www.linkedin.com/in/lokhande-rugwed-667109170/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/-Lexin%20Chen-0B65C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lexinc/"></a>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="lokhande-rugwed-667109170" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/lokhande-rugwed-667109170?trk=profile-badge">LOKHANDE RUGWED</a></div>
+<a href="https://www.linkedin.com/in/lokhande-rugwed-667109170/" target="_blank" rel="noopener noreferrer">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-Rugwed_Lokhande-0B65C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lokhande-rugwed-667109170/">
+</a>
               
 <!--
 **rugwed-lokhande/rugwed-lokhande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
