@@ -1,6 +1,6 @@
 <!-- Banner (optional) -->
 <p align="center">
-  <img src="your_banner_image.jpg" alt="Quantum Banner" width="80%"/>
+  <img src="lab_image.png" alt="Quantum Banner" width="80%"/>
 </p>
 
 <h1 align="center">Hi there! 👋</h1>
