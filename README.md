@@ -52,3 +52,16 @@ Outside of research, I enjoy playing 🏀 **basketball** and going 🥾 **hiking
   🚀 *Always excited to learn, collaborate, and explore the quantum world!*
 </p>
 
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://readme-stats.jonas-bernard.dev/api?username=rugwed-lokhande&theme=transparent&count_private=true&show_icons=true&rank_icon=github&hide=stars&locale=en" alt="rugwed-lokhande's GitHub Stats" />
+        
+<img width=390 src="https://github-readme-streak-stats-eight.vercel.app/?user=rugwed-lokhande&theme=transparent" alt="GitHub streak" />
+
+<img width=250 src="https://readme-stats.jonas-bernard.dev/api/top-langs?username=rugwed-lokhande&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="rugwed-lokhande's Most Used Languages" />
+</div>
+
+<hr>
