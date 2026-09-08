@@ -24,9 +24,11 @@
 
 ## 👨‍🔬 About Me
 
-I am a **4th year Ph.D. student** in the [Miranda-Quintana Group](https://github.com/mqcomplab) at the **University of Florida** 🐊.
+I am a **Postdoctoral Researcher** in the **Cui Group at the University of California, Irvine** 🐜.
 
-My research focuses on **theoretical and computational chemistry**, with an emphasis on developing new wavefunction methods to tackle **strong correlation** and **perturbative expansions**.
+My research focuses on **theoretical and computational chemistry**, particularly the development of **electronic-structure and many-body methods** for strongly correlated systems. I am currently working on **Green’s-function methods, quantum embedding, DMFT/DMET, and advanced wavefunction approaches** for molecular and quantum materials.
+
+I completed my **Ph.D. in Chemistry at the University of Florida** 🐊 in the [Miranda-Quintana Group](https://github.com/mqcomplab), where my research focused on developing new wavefunction methods for **strong correlation and perturbative expansions**.
 
 Outside of research, I enjoy playing 🏀 **basketball** and going 🥾 **hiking**.
 
